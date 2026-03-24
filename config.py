@@ -11,8 +11,8 @@ Edit this file to change strategy, risk, or model parameters.
 from pathlib import Path
 
 # ── File Paths ─────────────────────────────────────────────────────────────
-PRICES_PATH = r"C:\Users\amits\Desktop\All quant workshop\Market Risk\Value at Risk, app, Combined multi asset portfolio\data\stock_prices_30_tickers_with_rates_extended,Uber non NULL for Pre IPO.xlsx"
-HOLDINGS_PATH = r"C:\Users\amits\Desktop\All quant workshop\Market Risk\Value at Risk, app, Combined multi asset portfolio\data\Portfolio_holdings.xlsx"
+PRICES_PATH = r"Your prices"
+HOLDINGS_PATH = r"Your holdings"
 OUTPUT_DIR = Path(".")
 
 # ── VaR Model Parameters ──────────────────────────────────────────────────
